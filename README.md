@@ -1,4 +1,9 @@
 # TempoGamesFileTest
+
+**Unity Version: 2020.3.8f1 LTS**
+
+The main logic is in the `FileLoader` class: https://github.com/VladimirStefaniuk/TempoGamesFileTest/blob/main/Assets/Scripts/FileLoader.cs
+
 Program in the C# programming language that reads in a file containing a list of words. The program should take a word as input and output the number of times that word appears in the file.
 
 Basic interface:
