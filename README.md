@@ -1,6 +1,6 @@
 # TempoGamesFileTest
 
-**Unity Version: 2020.3.8f1 LTS**
+**Unity Version: 2022.3.8f1 LTS**
 
 The main logic is in the `FileLoader` class: https://github.com/VladimirStefaniuk/TempoGamesFileTest/blob/main/Assets/Scripts/FileLoader.cs
 
